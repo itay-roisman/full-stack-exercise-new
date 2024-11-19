@@ -1,0 +1,21 @@
+/* Base styles for the implementation page */
+.implementation {
+  background-color: #f9fafb;
+  
+  .implementation-header {
+    padding: 1rem;
+    background-color: white;
+    border-bottom: 1px solid #e5e7eb;
+    
+    .back-link {
+      color: #3b82f6;
+      text-decoration: none;
+      
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+}
+
+/* Implement your styles here */
